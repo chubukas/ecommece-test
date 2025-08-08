@@ -2,6 +2,8 @@
 
 ## Use your preferred IDE
 
+You can also open this project directly in your browser by visiting the [eCommence project live demo](https://ecommece-test.vercel.app/).
+
 If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
